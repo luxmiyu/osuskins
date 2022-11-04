@@ -1,11 +1,16 @@
 # luxmiyu's osu! skins
 
-join my discord: [discord.gg/komimau](https://discord.gg/komimau) c:
+this is a list of the osu! skins i use, from newest to oldest!
+
+[osu.ppy.sh/users/luxmiyu](https://osu.ppy.sh/users/luxmiyu) | [discord.gg/komimau](https://discord.gg/komimau)
+
+# Current Skins
 
 ## [--#  Hoshimachi Suisei (lux cursor, pink) #--](https://drive.google.com/file/d/12mARwMVdUYg16H9e3KkLj-_3ugdErWpb/)
 
 ![--#  Hoshimachi Suisei (lux cursor, pink) #--](https://i.imgur.com/wnpmiMB.png)
 
+# Previous Skins
 
 ## [--#  Hoshimachi Suisei (lux cursor) #--](https://drive.google.com/file/d/1_OuydrWSL_dW-3gerJPFAjxbBkicbW57/)
 
