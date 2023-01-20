@@ -25,3 +25,8 @@ this is a list of the osu! skins i use, from newest to oldest!
 ## [ミニマリスト](https://drive.google.com/file/d/1uaS1fVI7cTuvBqtgSGtgbLELfITKo2PW/)
 
 ![ミニマリスト](https://i.imgur.com/RnvclYA.png)
+
+
+## [osu!skins](https://drive.google.com/file/d/1JrkOkPNvBpc5pD9HRrT1p7ZbvXa3sljS/)
+
+![osu!skins](https://i.imgur.com/qkbI1J3.jpg)
