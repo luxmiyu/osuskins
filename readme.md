@@ -29,4 +29,4 @@ this is a list of the osu! skins i use, from newest to oldest!
 
 ## [osu!skins](https://drive.google.com/file/d/1JrkOkPNvBpc5pD9HRrT1p7ZbvXa3sljS/)
 
-![osu!skins](https://i.imgur.com/qkbI1J3.jpg)
+![osu!skins](https://i.imgur.com/pOIPoaN.png)
